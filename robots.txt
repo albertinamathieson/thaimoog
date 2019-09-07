@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://guethaixe.zis.es/sitemap.xml
